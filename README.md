@@ -2,3 +2,6 @@
 
 
 Gems:  
+gem 'haml'  
+gem 'simple_form'  
+gem 'devise'  
